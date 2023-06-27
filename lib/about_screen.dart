@@ -81,7 +81,7 @@ class AboutApp extends StatelessWidget {
                               overflow: TextOverflow.ellipsis,
                               fontSize: screenWidth * 4.8,decoration: TextDecoration.underline,
                             ),),
-                          onTap: ()=>launchUrl(Uri.parse("https://devchrissin.blogspot.com/2021/12/space-master-hunt-invisibless-privacy.html")),
+                          onTap: ()=>launchUrl(Uri.parse("https://www.termsfeed.com/live/5daf69c9-c35b-4325-ac25-0b362408f0d3")),
                         ),
                       ),
                           Padding(

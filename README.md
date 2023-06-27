@@ -11,10 +11,9 @@ The Visually Impaired people might have to depend on their Android TalkBack's lo
 Note:-
 In case haptics/vibration is not working for you, make sure it is turned on from: Settings>Sound&Vibration>Touch Vibration OR in some phones from: Accessibility>Vibration&Haptics>Touch Feedback
 
-Various methods of locating the Invisibles are present, such as haptics/vibrations, Audio and visual color change of Navigation and Status bar.
+Various methods of locating the "Invisibles" are made available to you, such as haptics/vibrations, Audio and visual color change of Navigation and Status bar.
 
-Read Privacy Policy and Terms & Conditions here: https://devchrissin.blogspot.com/2021/12/space-master-hunt-invisibless-privacy.html
-\[By installing these apps you have agreed to above policies, terms and conditions and chose to abide by them.]
+Privacy Policy available at: https://www.termsfeed.com/live/5daf69c9-c35b-4325-ac25-0b362408f0d3
 
 ### Icon:
 ![App Icon](https://lh3.googleusercontent.com/47lMmEpX_dfMBUSojgf_RG0HAr0HsVcNIZccVg2nvLqxeUQdO0XcStxwRUfSc2iKJPQ "App Icon")

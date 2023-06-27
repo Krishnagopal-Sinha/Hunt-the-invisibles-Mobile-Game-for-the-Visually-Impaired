@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f6cead-8195-480b-9845-f7c496377b27" name="Changes" comment="">
+    <list default="true" id="ab89d556-ed7e-4842-a847-dc83316c758e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../APKs (Installer) Built Releases/Hunt the Invisibles (Space Master).apk" beforeDir="false" afterPath="$PROJECT_DIR$/../APKs (Installer) Built Releases/Hunt the Invisibles (Space Master).apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/about_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/about_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +30,7 @@
     </projectState>
   </component>
   <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
     <option name="KEY_STORE_PATH" value="C:\@chris._.sin\Dev\Space Master Game F\spacey.jks" />
     <option name="KEY_ALIAS" value="key0" />
     <option name="REMEMBER_PASSWORDS" value="true" />
@@ -31,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2Rl4FBfVNq9ouqXEoXO3somsiY2" />
+  <component name="ProjectId" id="2RmL7EvwQ3BRezbUROVig05sDtq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,13 +48,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ApkExportedModule": "android.app",
+    "BundleExportedModule": "android.app",
     "ExportApk.ApkPathForandroid.app": "C:\\@chris._.sin\\AndroidStudioProjects\\hunt_the_invisible\\android\\app",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ExportBundle.BundlePathForandroid.app": "C:\\@chris._.sin\\AndroidStudioProjects\\hunt_the_invisible\\android\\app",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/@chris._.sin/Dev/Space Master Game F/spacey.jks",
+    "last_opened_file_path": "C:/@chris._.sin/Dev/EncryptedKey Gplay",
     "show.migrate.to.gradle.popup": "false"
   },
   "keyToStringList": {
@@ -118,11 +126,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99f6cead-8195-480b-9845-f7c496377b27" name="Changes" comment="" />
-      <created>1687811227501</created>
+      <changelist id="ab89d556-ed7e-4842-a847-dc83316c758e" name="Changes" comment="" />
+      <created>1687850141028</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1687811227501</updated>
+      <updated>1687850141028</updated>
     </task>
     <servers />
   </component>
